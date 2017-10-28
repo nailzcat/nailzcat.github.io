@@ -6,19 +6,29 @@ layout: default
 
   {{ content }}
   
-  <ul class="post-list">
+  <ul class="news-list">
     {% for post in site.categories.news %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {% if post.image %}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <img src="{{ post.image }}" alt="{{ post.title }}" width="100%"/>
+        </a>
+        {% endif %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <h2 class="news-title">
+           {{ post.title | escape }}
+          </h2>
+        </a>
+        {% assign date_format = site.minima.date_format | default: "%d/%m/%y"  %}
+        <span class="post-meta">posted {{ post.date | date: date_format }}</span>
+        {% if post.abstract %}
+        <p>{{ post.abstract }}</p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">subscribe via RSS</a></p>
 
 </div>

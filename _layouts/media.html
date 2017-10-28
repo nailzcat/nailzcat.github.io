@@ -6,20 +6,45 @@ layout: default
 
   {{ content }}
   
-  <ul class="post-list">
+  <ul class="media-list">
     {% for post in site.categories.media %}
       <li>
-        <h2 class="post-title">{{ post.title | escape }}</h2>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <h2 class="media-title">{{ post.title | escape }}</h2>
+        {% assign date_format = site.minima.date_format | default: "%d/%m/%y"  %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-          <div class="post-content" itemprop="articleBody">{{ post.content }}
-            {{ content }}
+        <div>
+          {% if post.youtube-embed %}
+          <div class="media-video">
+            <iframe width="100%" height="auto" src="{{ post.youtube-embed }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
+          {% endif %}
+          {% if post.youtube %}
+            <span class="post-media-link">
+              <a href="{{ post.youtube }}" target="_blank">YouTube</a>
+            </span>
+          {% endif %}
+
+          {% if post.vimeo-embed %}
+          <div class="media-video">
+            <iframe width="100%" height="auto" src="{{ post.vimeo-embed }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          {% endif %}        
+          {% if post.vimeo %}
+            <span class="post-media-link">
+              <a href="{{ post.vimeo }}" target="_blank">Vimeo</a>
+            </span>
+          {% endif %}
+        </div>
+
+        <div class="post-content" itemprop="articleBody">{{ post.content }}
+          {{ content }}
+        </div>
+
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">subscribe via RSS</a></p>
 
 </div>

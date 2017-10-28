@@ -3,8 +3,13 @@ layout: post
 title:  "Film 2"
 date:   2017-10-28 13:14:52 +0100
 categories: media
+
+youtube-embed: https://www.youtube.com/embed/kJQP7kiw5Fk
+youtube: https://www.youtube.com/watch?v=kJQP7kiw5Fk
+vimeo-embed: https://player.vimeo.com/video/220026307
+vimeo: https://vimeo.com/220026307
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HXLeIQzlBEY" frameborder="0" allowfullscreen></iframe>
+Despacito is my all-time most favouritest video ever I love it so much it's amazing.  Let me tell you a bit more about how much I love it - I really love it lots!  It makes me super happy and I listen to it every day over and over.  All my friends love it too, my friends are so great because they love Despacito.
 
-<iframe src="https://player.vimeo.com/video/240178494" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+I love Despacito. 

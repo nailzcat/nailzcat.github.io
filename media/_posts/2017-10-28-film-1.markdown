@@ -3,8 +3,11 @@ layout: post
 title:  "Film 1"
 date:   2017-10-28 13:10:52 +0100
 categories: media
+
+youtube-embed: https://www.youtube.com/embed/0KSOMA3QBU0
+youtube: https://www.youtube.com/watch?v=0KSOMA3QBU0
+vimeo-embed: https://player.vimeo.com/video/195057161
+vimeo: https://vimeo.com/195057161
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rO-LZZdSmkg" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/238955870" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+I've got some stuff to say about this video right here.
