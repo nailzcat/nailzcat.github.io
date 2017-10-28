@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        <ul>
+           {% for item in site.data.nav.nav %}
+              <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+           {% endfor %}
+        </ul>
+
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
