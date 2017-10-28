@@ -1,0 +1,30 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+      <div>
+        <ul class="social-media-list">
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><img src="/assets/images/twitter.png"/></a>
+          </li>
+          {% endif %}
+
+          {% if site.vimeo_username %}
+          <li>
+            <a href="https://vimeo.com/{{ site.vimeo_username }}"><img src="/assets/images/vimeo.png"/></a>
+          </li>
+          {% endif %}
+
+          {% if site.youtube_username %}
+          <li>
+            <a href="https://youtube.com/{{ site.youtube_username }}"><img src="/assets/images/youtube.png"/></a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

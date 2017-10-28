@@ -10,11 +10,13 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
 
-        <ul>
-           {% for item in site.data.nav.nav %}
-              <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-           {% endfor %}
-        </ul>
+        <div>
+          <ul class="site-nav">
+             {% for item in site.data.nav.nav %}
+                <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+             {% endfor %}
+          </ul>
+        </div>
 
         {{ content }}
       </div>

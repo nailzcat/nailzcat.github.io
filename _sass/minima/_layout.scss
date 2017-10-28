@@ -1,0 +1,133 @@
+/**
+ * Site header
+ */
+.site-header {
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  font: normal normal normal 56px/1.5 FuturaDCDBoo;
+  margin: auto;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 30px
+  a {
+    color: $black-color;
+  }
+}
+
+.site-nav {
+  list-style-type: none;
+  margin: auto;
+  display: block;
+  text-align: center;
+  width: 75%;
+  padding-bottom: 10px;
+  
+  li {
+    display: inline;
+    margin: auto;
+    padding: 0 20px;
+    width: 20%;
+    font: normal normal normal 28px/3 BourtonHandLineMedium;
+  }
+}
+
+/**
+ * Site footer
+ */
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin: auto;
+  display: block;
+  width: 50%;
+  text-align: center;
+  padding-bottom: 20px;
+
+  li {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+    height: 50px;
+    width: 50px;
+  }
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+}
+
+.page-heading {
+  @include relative-font-size(1.25);
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.5);
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.25);
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    @include relative-font-size(2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.625);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.375);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.25);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
+}

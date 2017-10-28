@@ -24,8 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:categories/:title/
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: circlelandfilms
+vimeo_username:  circlelandfilms
+youtube_username: circlelandfilms
 
 # Build settings
 livereload: false

@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Bryony dressed as a queen holding a scroll]({{"/assets/images/bryony-scroll.png"}})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Circle Land Films was started in early 2016 by the Kay-King
+Family.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Based in Yate (Bristol, UK) we make strictly non-commercial films,
+just for fun.
 
+Our aim is to tell stories and learn about all aspects of filmmaking
+in an inclusive, respectful and (hopefully) relaxed way.
 
-[jekyll-organization]: https://github.com/jekyll
+We are always looking for volunteers – we could always use
+actors, camera operators, sound engineers, post production
+people, VFX people, scriptwriters, etc.
+
+We are no experts, but if you are new to filmmaking or just wanted
+to come along to a shoot, we would be happy to show you what we
+know. We don’t have any restrictions, our first two films were
+based on ideas suggested by a four year old!
+
+If you would like to get involved please do let us know via the
+social media links below or email us:
+
+<center>
+	<a href="mailto:circlelandfilms@gmail.com">circlelandfilms@gmail.com</a>	
+</center>
