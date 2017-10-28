@@ -30,3 +30,5 @@ social media links below or email us:
 <center>
 	<a href="mailto:circlelandfilms@gmail.com">circlelandfilms@gmail.com</a>	
 </center>
+
+Made with &hearts; by [Conan](https://conan.is)
