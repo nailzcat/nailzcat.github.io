@@ -15,7 +15,7 @@ Media posts appear in full in a list on the [media page](https://nailzcat.github
 
 ### News
 
-News posts appear in a list that displays an image and a summary of the post, which are specified in the front matter as `image` and `abstract` respectively.  The title of each post and its image (if specified) link to the full post, where the content will appear as well as the image.
+News posts appear in a list on the [news page](https://nailzcat.github.io/news/) that displays an image and a summary of the post, which are specified in the front matter as `image` and `abstract` respectively.  The title of each post and its image (if specified) link to the full post, where the content will appear as well as the image.
 
 
 ## Running locally
