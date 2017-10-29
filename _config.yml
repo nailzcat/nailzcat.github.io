@@ -31,7 +31,7 @@ youtube: https://www.youtube.com/channel/UC-675ndfDrSxNNJFg2TTSNQ
 google_analytics: UA-108880944-1
 
 # Build settings
-livereload: false
+livereload: true
 markdown: kramdown
 theme: minima
 minima:
