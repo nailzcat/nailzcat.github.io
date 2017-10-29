@@ -26,9 +26,10 @@ based on ideas suggested by a four year old!
 
 If you would like to get involved please do let us know via the
 social media links below or email us:
-
+<br/><br/>
 <center>
 	<a href="mailto:circlelandfilms@gmail.com">circlelandfilms@gmail.com</a>	
 </center>
+<br/>
 
-Made with &hearts; by [Conan](https://conan.is)
+Made with &hearts; by <a href="http://conan.is" target="_blank">Conan</a>

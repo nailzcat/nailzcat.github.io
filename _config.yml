@@ -24,11 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:categories/:title/
 
-twitter_username: circlelandfilms
-vimeo_username:  circlelandfilms
-youtube_username: circlelandfilms
+twitter: https://twitter.com/circlelandfilms
+vimeo: https://vimeo.com/circlelandfilms
+youtube: https://www.youtube.com/channel/UC-675ndfDrSxNNJFg2TTSNQ
 
-google_analytics:
+google_analytics: UA-108880944-1
 
 # Build settings
 livereload: false
