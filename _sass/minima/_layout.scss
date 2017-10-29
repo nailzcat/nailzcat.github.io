@@ -73,8 +73,8 @@
   list-style: none;
 
   > li {
-    margin-bottom: $list-spacing-unit;
     margin: auto;
+    margin-bottom: $list-spacing-unit;
     text-align: center;
   }
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "News 2"
+title:  News 2
 date:   2017-10-28 13:21:52 +0100
 categories: news
 
