@@ -15,8 +15,11 @@
   padding-bottom: 30px
   a {
     color: $black-color;
-    text-decoration: none;
   }
+}
+
+.site-title:hover {
+  text-decoration: none;
 }
 
 .site-nav {
