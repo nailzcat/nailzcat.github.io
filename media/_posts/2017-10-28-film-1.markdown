@@ -6,8 +6,8 @@ categories: media
 
 youtube-embed: https://www.youtube.com/embed/g24BOoKkVxI
 youtube: https://www.youtube.com/watch?v=g24BOoKkVxI
-vimeo-embed: https://player.vimeo.com/video/195057161
-vimeo: https://vimeo.com/195057161
+vimeo-embed: https://player.vimeo.com/video/240319187
+vimeo: https://vimeo.com/240319187
 ---
 
 I've got some stuff to say about this video right here.
