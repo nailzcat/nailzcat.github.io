@@ -12,9 +12,13 @@
 
         <div>
           <ul class="site-nav">
-             {% for item in site.data.nav.nav %}
+            {% for item in site.data.nav.nav %}
+              {% if page.url == item.url %}
+                <li class="active">{{ item.title }}</li>
+              {% else %}
                 <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-             {% endfor %}
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
 
