@@ -5,12 +5,11 @@ date:   2017-12-16 13:10:52 +0100
 categories: news
 
 image: /assets/images/rabbit-cuddle.png
+
+abstract: Usually if I say to people “I’m making a film, anyone can help, would you like to join in?” the response I get (apart from “No”) is...
+
+ “Oh yeah? I’ve always fancied having a go at acting”.
 ---
-
- Usually if I say to people “I’m making a film, anyone can help, would you like to join in?” the response I get (apart from “No”) is...
-
- “Oh yeah? I’ve always fancied having a go at acting”. 
-
  I should make it clear that the last thing I want to do is say anything bad about the actors in our film. They were all amazing, multi-talented, highly skilled and most importantly - completely unpaid. They helped with camerawork, lighting, stunts and  scriptwriting. They provided costumes, entertained children off camera, put up with being shouted at, and so many other things.
 
  All I want to say was that even if you are not interested in acting, there are so many other ways and opportunities to get involved in making a film.
