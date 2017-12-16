@@ -17,7 +17,7 @@ The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV
 
 
 <p align="center">
-  <img alt="Cardboard broadsword?" src="https://nailzcat.github.io/assets/images/Props.jpg">
+  <img src="https://nailzcat.github.io/assets/images/Props.jpg">
 </p>
 
 
@@ -28,7 +28,7 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 
 
 <p align="center">
-  <img alt="Story Time" src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
+  <img src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
 </p>
 
 
