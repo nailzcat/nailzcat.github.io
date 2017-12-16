@@ -16,7 +16,7 @@ The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV
 
 image: /assets/images/Props.jpg
 
-I made the witches and the jester's sword with very basic pepakura - cardboard shapes glued together. The cardboard was then coated in resin, and painted. Later some bits of kite strut were added to give more strength. We considered having some sort of actual swordfight scene in the film, but the props were not going to take much punishment and there was not time to choreograph. Besides, I really made them because it was fun to do so - the witch could easily have had a wand and no one else really needed a sword. The woodcutters hardware was all real stuff from the shed.
+I made the witches and the jester's sword with very basic pepakura - cardboard shapes glued together. The cardboard was then coated in resin, and painted. Later some bits of kite strut were added to give more strength. We considered having some sort of actual swordfight scene in the film, but the props were not going to take much punishment and there was not time to choreograph. Besides, I really made them because it was fun to do so - the witch could easily have had a wand and no one else really needed a sword. The woodcutter's hardware was all real stuff from the shed.
 
 ### Magazine
 
