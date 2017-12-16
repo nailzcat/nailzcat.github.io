@@ -16,7 +16,7 @@
               {% assign page-url-start = page.url | slice: 0, 5 %}
               {% assign item-url-start = item.url | slice: 0, 5 %}
               {% if page-url-start == item-url-start %}
-                <li class="active">{{ item.title }}</li>
+                <li class="active"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
               {% else %}
                 <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
               {% endif %}
