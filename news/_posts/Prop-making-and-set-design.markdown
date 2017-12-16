@@ -10,7 +10,7 @@ abstract: Just a few images of some of the things we made for Sleepless Beauty.
 ---
 ### The Wall (see above)
 
-The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV paint. Originally we planned to do some night time party scenes, lit in part by blacklight... sadly we had no time for this. Maybe in the next time!
+The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV paint. Originally we planned to do some night time party scenes, lit in part by blacklight... sadly we had no time for this. Maybe in the next time.
 
 ### Swords
 
@@ -22,4 +22,6 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 
 image: /assets/images/SmallMagazine.png
 
-To make the witch more businessy we decided to have her reading a version of Time magazine in her "office". Also useful as a fairly blatant device to tie the 2 scences together!
+To make the witch more businessy we decided to have her reading a version of Time magazine in her "office". Also useful as a fairly blatant device to tie the 2 scences together.
+
+H
