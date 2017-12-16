@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Film 1
+title:  Sleepless Beauty (Trailer)
 date:   2017-10-28 13:10:52 +0100
 categories: media
 
@@ -10,4 +10,4 @@ vimeo-embed: https://player.vimeo.com/video/240319187
 vimeo: https://vimeo.com/240319187
 ---
 
-I've got some stuff to say about this video right here.
+Cinematic teaser for our first general release, due December 2017...
