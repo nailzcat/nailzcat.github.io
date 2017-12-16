@@ -4,10 +4,11 @@ title:  Sleepless Beauty (Trailer)
 date:   2017-10-28 13:10:52 +0100
 categories: media
 
-youtube-embed: https://www.youtube.com/embed/g24BOoKkVxI
-youtube: https://www.youtube.com/watch?v=g24BOoKkVxI
+
 vimeo-embed: https://player.vimeo.com/video/240319187
 vimeo: https://vimeo.com/240319187
+youtube-embed: https://www.youtube.com/embed/g24BOoKkVxI
+youtube: https://www.youtube.com/watch?v=g24BOoKkVxI
 ---
 
 Cinematic teaser for our first general release, due December 2017...
