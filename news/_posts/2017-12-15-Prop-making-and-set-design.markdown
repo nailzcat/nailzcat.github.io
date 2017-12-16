@@ -9,12 +9,10 @@ image: /assets/images/Wall.jpg
 abstract: Just a few images of some of the things we made for Sleepless Beauty.
 ---
 ### The Wall (see above)
-<br/>
 The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV paint. Originally we planned to do some night time party scenes, lit in part by blacklight... sadly we had no time for this. Maybe in the next time.
 <br/>
 <br/>
 ### Swords
-<br/>
 <p align="center">
   <img src="https://nailzcat.github.io/assets/images/Props.jpg">
 </p>
@@ -22,7 +20,6 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 <br/>
 <br/>
 ### Magazine
-<br/>
 <p align="center">
   <img src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
 </p>
