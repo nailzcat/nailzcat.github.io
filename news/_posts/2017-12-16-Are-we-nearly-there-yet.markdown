@@ -25,17 +25,15 @@ I should make it clear that the last thing I want to do is say anything bad abou
 <br/>
 <br/>
 <br/>
+<p>
   <img src="https://nailzcat.github.io/assets/images/Chart.png">
 </p>
-<br/>
-<br/>
 <br/>
 <br/>
 _*Music/Foley - the time spent on these was time it took me to find some music I liked and obtain permission to use it, and in the case of the intro guitar piece to commission something especially for the film. I cannot imagine how many months and years of effort has gone into the creations of the talented artists who actually made the music! Huge thanks to them._
 <br/>
 <br/>
-<br/>
-<br/>
+
  So the point of all this was just to say that if anyone would like to help make a film for fun, there is a huge amount of stuff you can help with behind the camera**. We would be very grateful to anyone that wanted to volunteer some time on our next project (more details on that soon). 
 <br/>
 <br/>
