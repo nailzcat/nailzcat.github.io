@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Circle Land Films was started in early 2016 by the Kay-King Family. 
   Based in Yate (Bristol, UK) we make strictly non-commercial films, just for fun.
 
-baseurl: "/nailzcat.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:categories/:title/
