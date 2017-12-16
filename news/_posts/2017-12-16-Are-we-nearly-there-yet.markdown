@@ -16,9 +16,10 @@ abstract: Usually if I say to people “I’m making a film, anyone can help, wo
 
   It has taken almost 9 months of (part time) effort to make our 13 minute film. That time can be broken down like this:
 
-image: /assets/images/Chart.png
+![alt text](https://nailzcat.github.io/assets/images/Chart.png  "Boring chart thinger")
 
-*Music/Foley - the time spent on these was time it took me to find some music I liked and obtain permission to use it, and in the case of the intro guitar piece to commission something especially for the film. I cannot imagine how many months and years of effort has gone into the creations of the talented artists who actually made the music! Huge thanks to them.
+
+_*Music/Foley - the time spent on these was time it took me to find some music I liked and obtain permission to use it, and in the case of the intro guitar piece to commission something especially for the film. I cannot imagine how many months and years of effort has gone into the creations of the talented artists who actually made the music! Huge thanks to them._
 
  So the point of all this was just to say that if anyone would like to help make a film for fun, there is a huge amount of stuff you can help with behind the camera**. We would be very grateful to anyone that wanted to volunteer some time on our next project (more details on that soon). 
 
