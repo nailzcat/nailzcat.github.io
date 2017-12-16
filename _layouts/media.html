@@ -14,17 +14,6 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <div>
-          {% if post.youtube-embed %}
-          <div class="media-video">
-            <iframe width="100%" height="auto" src="{{ post.youtube-embed }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-          </div>
-          {% endif %}
-          {% if post.youtube %}
-            <span class="post-media-link">
-              <a href="{{ post.youtube }}" target="_blank">YouTube</a>
-            </span>
-          {% endif %}
-
           {% if post.vimeo-embed %}
           <div class="media-video">
             <iframe width="100%" height="auto" src="{{ post.vimeo-embed }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -33,6 +22,16 @@ layout: default
           {% if post.vimeo %}
             <span class="post-media-link">
               <a href="{{ post.vimeo }}" target="_blank">Vimeo</a>
+            </span>
+          {% endif %}
+          {% if post.youtube-embed %}
+          <div class="media-video">
+            <iframe width="100%" height="auto" src="{{ post.youtube-embed }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          {% endif %}
+          {% if post.youtube %}
+            <span class="post-media-link">
+              <a href="{{ post.youtube }}" target="_blank">YouTube</a>
             </span>
           {% endif %}
         </div>
