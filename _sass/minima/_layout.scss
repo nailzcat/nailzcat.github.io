@@ -16,7 +16,12 @@
   a {
     color: $black-color;
   }
+
+  a:hover {
+    text-decoration: none;
+  }
 }
+
 
 .site-nav {
   list-style-type: none;
