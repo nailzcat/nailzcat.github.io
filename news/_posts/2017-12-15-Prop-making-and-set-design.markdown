@@ -18,8 +18,6 @@ The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV
 <p align="center">
   <img src="https://nailzcat.github.io/assets/images/Props.jpg">
 </p>
-<br/>
-<br/>
 I made the witches and the jester's sword with very basic pepakura - cardboard shapes glued together. The cardboard was then coated in resin, and painted. Later some bits of kite strut were added to give more strength. We considered having some sort of actual swordfight scene in the film, but the props were not going to take much punishment and there was not time to choreograph. Besides, I really made them because it was fun to do so - the witch could easily have had a wand and no one else really needed a sword. The woodcutter's hardware was all real stuff from the shed.
 <br/>
 <br/>
@@ -28,8 +26,6 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 <p align="center">
   <img src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
 </p>
-<br/>
-<br/>
 To make the witch more businessy we decided to have her reading a version of Time magazine in her "office". Also useful as a fairly blatant device to tie the 2 scences together.
 <br/>
 <br/>
