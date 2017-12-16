@@ -15,7 +15,10 @@ The backdrop for all "Palace" scenes, spraypainted on our garden wall in neon/UV
 
 ### Swords
 
-![alt text](https://nailzcat.github.io/assets/images/Props.jpg  "Cardboardsword")
+
+<p align="center">
+  <img alt="Cardboard broadsword?" src="https://nailzcat.github.io/assets/images/Props.jpg">
+</p>
 
 
 I made the witches and the jester's sword with very basic pepakura - cardboard shapes glued together. The cardboard was then coated in resin, and painted. Later some bits of kite strut were added to give more strength. We considered having some sort of actual swordfight scene in the film, but the props were not going to take much punishment and there was not time to choreograph. Besides, I really made them because it was fun to do so - the witch could easily have had a wand and no one else really needed a sword. The woodcutter's hardware was all real stuff from the shed.
@@ -23,10 +26,9 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 
 ### Magazine
 
-![alt text](https://nailzcat.github.io/assets/images/SmallMagazine.png  "Story Time")
 
 <p align="center">
-  <img src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
+  <img alt="Story Time" src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
 </p>
 
 
