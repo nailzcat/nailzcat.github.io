@@ -22,11 +22,9 @@ I should make it clear that the last thing I want to do is say anything bad abou
 <br/>
   It has taken almost 9 months of (part time) effort to make our 13 minute film. That time can be broken down like this:
 <br/>  
-<br/>
 <p align="center">
   <img src="https://nailzcat.github.io/assets/images/Chart.png">
 </p>
-<br/>
 <br/>
 _*Music/Foley - the time spent on these was time it took me to find some music I liked and obtain permission to use it, and in the case of the intro guitar piece to commission something especially for the film. I cannot imagine how many months and years of effort has gone into the creations of the talented artists who actually made the music! Huge thanks to them._
 <br/>
