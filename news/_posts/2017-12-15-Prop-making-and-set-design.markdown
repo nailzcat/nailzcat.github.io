@@ -25,6 +25,10 @@ I made the witches and the jester's sword with very basic pepakura - cardboard s
 
 ![alt text](https://nailzcat.github.io/assets/images/SmallMagazine.png  "Story Time")
 
+<p align="center">
+  <img src="https://nailzcat.github.io/assets/images/SmallMagazine.png">
+</p>
+
 
 To make the witch more businessy we decided to have her reading a version of Time magazine in her "office". Also useful as a fairly blatant device to tie the 2 scences together.
 
