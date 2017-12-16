@@ -7,6 +7,8 @@ categories: media
 
 vimeo-embed: https://player.vimeo.com/video/247597082
 vimeo: https://vimeo.com/247597082
+youtube-embed: https://www.youtube.com/embed/GAwGl_99dIs
+youtube: https://www.youtube.com/watch?v=GAwGl_99dIs
 ---
 
 Sleepless Beauty is a fairy tale story about a princess cursed to stay awake unless she agrees to a deal to clear her father's debts.
