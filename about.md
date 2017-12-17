@@ -9,7 +9,7 @@ permalink: /about/
 Circle Land Films was started in early 2016 by the Kay-King
 Family.
 <br/><br/>
-Based in Yate (Bristol, UK) we make strictly non-commercial films,
+Based in Westerleigh (Bristol, UK) we make strictly non-commercial films,
 just for fun.
 <br/><br/>
 Our aim is to tell stories and learn about all aspects of filmmaking
